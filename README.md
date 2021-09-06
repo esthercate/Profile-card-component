@@ -14,8 +14,8 @@ Find the screenshots at SolutionScreenshots folder
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-Z6p6_pXcq)
+- Live Site URL: [Live site URL](https://esthercate.github.io/Profile-card-component/)
 
 ## My process
 
@@ -33,5 +33,5 @@ Adding multiple backgrounds to a site.
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@esthercate](https://www.frontendmentor.io/profile/esthercate)
 
